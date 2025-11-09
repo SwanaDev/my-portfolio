@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Mail, Phone, Linkedin, Github, MapPin, ExternalLink, Calendar, Briefcase } from 'lucide-react';
-
+import { Mail, Phone, Linkedin, MapPin, Calendar, Briefcase } from 'lucide-react';
 import profileImage from './assets/images/portfoliopic.JPG';
 
 export default function Portfolio() {
